@@ -81,7 +81,7 @@ The LSTM neural network is used to predict delivery time based on three features
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarthak98765/Food-delivery-time-prediction.git
+   git clone git@github.com:JatinSri1909/food-delivery-prediction.git
    cd Food-Delivery-Time-Prediction
 
 2. Install dependencies:
